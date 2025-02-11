@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Kamal Mustafayev</h1>
-<h3 align="center">A passionate and ambitious web developer/java programmer from Azerbaijan!</h3>
+<h3 align="center">A passionate and ambitious Software Engineer from Azerbaijan!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently interested in **Machine Learning**
 
 - 📫 How to reach me **kamalmustafayev23062@gmail.com**
 
